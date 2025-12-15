@@ -19,9 +19,7 @@ In timing diagram Q0 is changing as soon as the negative edge of clock pulse is 
 
 <img width="441" height="336" alt="Screenshot 2025-12-15 225457" src="https://github.com/user-attachments/assets/491a427c-2b34-4520-b955-bdccd025e7ee" />
 
-<img width="315" height="241" alt="Screenshot 2025-12-15 225520" src="https://github.com/user-attachments/assets/5bb67466-35ab-4a6f-a5fc-654440e54567" />
-
-
+<img width="565" height="740" alt="4BIT_ EX 12 TROUTH" src="https://github.com/user-attachments/assets/038fe5d0-3120-40ad-90b8-130aa04b9b51" />
 
 PROGRAM
 
